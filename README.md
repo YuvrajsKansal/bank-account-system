@@ -1,8 +1,8 @@
-#Bank Account System 🏦
+# Bank Account System 🏦
 
 CLI-based banking app in Python — create accounts, deposit, withdraw, and earn interest on savings.
 
-#Features
+# Features
 - Current and savings accounts
 - Savings accounts auto-apply interest on creation
 - Deposit / withdraw with balance and amount validation
